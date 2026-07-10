@@ -10,6 +10,7 @@ This repository contains my accepted solutions to CodeForces problems written in
 
 ## Repository Structure
 
+```text
 CodeForces-Java/
 │
 ├── README.md
@@ -41,6 +42,7 @@ CodeForces-Java/
 ├── 1800/
 ├── 1900/
 ├── 2000/
+│
 └── Resources/
     ├── FastScanner.java
     └── Template.java
